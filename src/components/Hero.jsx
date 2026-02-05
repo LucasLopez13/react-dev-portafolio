@@ -51,7 +51,7 @@ const Hero = () => {
                             <a href="#projects" className="px-6 py-3 bg-primary-600 hover:bg-primary-500 text-white rounded-lg font-medium transition-all transform hover:scale-105 shadow-lg shadow-primary-600/20 flex items-center gap-2">
                                 Ver Mis Proyectos <ArrowRight className="w-5 h-5" />
                             </a>
-                            <a href="/Lucas_Lopez_Backend_Developer_Java.pdf" download="Lucas_Lopez_Backend_Developer_Java.pdf" className="px-6 py-3 bg-dark-800 hover:bg-dark-700 text-gray-300 hover:text-white rounded-lg font-medium transition-all border border-dark-700 flex items-center gap-2">
+                            <a href={`${process.env.PUBLIC_URL}/Lucas_Lopez_Backend_Developer_Java.pdf`} download="Lucas_Lopez_Backend_Developer_Java.pdf" className="px-6 py-3 bg-dark-800 hover:bg-dark-700 text-gray-300 hover:text-white rounded-lg font-medium transition-all border border-dark-700 flex items-center gap-2">
                                 <FileText className="w-5 h-5" /> Descargar CV
                             </a>
                         </div>
