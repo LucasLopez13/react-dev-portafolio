@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-dev-portafolio/static/css/main.1c14ff33.css",
-    "main.js": "/react-dev-portafolio/static/js/main.e218c926.js",
+    "main.js": "/react-dev-portafolio/static/js/main.85074164.js",
     "static/media/banner-forohub.png": "/react-dev-portafolio/static/media/banner-forohub.ff72f1eb2b5b94fcc792.png",
     "static/media/banner-ledgerx.png": "/react-dev-portafolio/static/media/banner-ledgerx.22a5d4955e5218967b82.png",
     "static/media/banner-booking-api.png": "/react-dev-portafolio/static/media/banner-booking-api.2c4cb033d7b890b8922b.png",
@@ -9,6 +9,6 @@
   },
   "entrypoints": [
     "static/css/main.1c14ff33.css",
-    "static/js/main.e218c926.js"
+    "static/js/main.85074164.js"
   ]
 }
