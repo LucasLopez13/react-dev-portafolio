@@ -19,8 +19,8 @@ const Projects = () => {
             image: require("../assets/images/banner-forohub.png")
         },
         {
-            title: "LedgerX (En Desarrollo)",
-            desc: "En desarrollo",
+            title: "LedgerX",
+            desc: "Billetera virtual que garantiza transacciones inmutables mediante persistencia políglota, implementando arquitectura de microservicios, seguridad JWT y despliegue en la nube.",
             tags: ["Java", "Spring Boot", "PostgreSQL", "MongoDB"],
             links: { code: "https://github.com/LucasLopez13/spring-boot-ledgerX" },
             image: require("../assets/images/banner-ledgerx.png")
