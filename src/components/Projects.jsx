@@ -20,7 +20,7 @@ const Projects = () => {
         },
         {
             title: "LedgerX",
-            desc: "Billetera virtual que garantiza transacciones inmutables mediante persistencia políglota, implementando arquitectura de microservicios, seguridad JWT y despliegue en la nube.",
+            desc: "Billetera virtual de transacciones inmutables con persistencia políglota. Garantiza operaciones seguras mediante JWT.",
             tags: ["Java", "Spring Boot", "PostgreSQL", "MongoDB"],
             links: { code: "https://github.com/LucasLopez13/spring-boot-ledgerX" },
             image: require("../assets/images/banner-ledgerx.png")
